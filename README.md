@@ -3,25 +3,16 @@
 A web-based dashboard for mentors to evaluate college students. Features include adding, editing, and removing students, assigning marks, and a filter to view students based on their assigned marks. Supports up to 4 students per mentor. Includes an added email feature.
 
 ## Screenshots
+![Node Mailer Functionality Working ScreenShot](https://github.com/shubhamdev123/MentorShip_Project/assets/96860714/87a6163b-8c1d-4155-a638-cf5c7dcbdc44)
 
+![PDF generated](https://github.com/shubhamdev123/MentorShip_Project/assets/96860714/434ab389-601e-4206-af20-bfe640788e4c)
 
-![Evaluated Page]
-(https://github.com/shubhamdev123/MentorShip_Project/assets/96860714/ad8cc7ad-b135-4ec6-a226-854996077d0b)
+![Select Students](https://github.com/shubhamdev123/MentorShip_Project/assets/96860714/7657e357-0625-4291-bfe7-ccf2b70988aa)
 
-![Atleast one student functionality]
-(https://github.com/shubhamdev123/MentorShip_Project/assets/96860714/b1f32f81-ef93-44d8-8b38-9103c65905cd)
+![Select Mentor Page](https://github.com/shubhamdev123/MentorShip_Project/assets/96860714/76d9378d-e05a-46b3-ac70-d849ed82979b)
 
+![Evaluated Page](https://github.com/shubhamdev123/MentorShip_Project/assets/96860714/87f230a0-4510-44ba-b408-eb78cb8cce08)
 
-![Node Mailer Functionality Working ScreenShot]
-(https://github.com/shubhamdev123/MentorShip_Project/assets/96860714/6c62658f-8d5c-49d1-ba63-c0f03e33b7c5)
+![Atleast one student functionality](https://github.com/shubhamdev123/MentorShip_Project/assets/96860714/1fad9c7a-e218-4825-b4d3-e018cc863a13)
 
-
-
-![Select Mentor Page]
-(https://github.com/shubhamdev123/MentorShip_Project/assets/96860714/dd05b606-2aef-4716-abdd-1661a2fc819a)
-
-
-![Select Students]
-(https://github.com/shubhamdev123/MentorShip_Project/assets/96860714/212313ef-2bf3-4f85-a2a5-8c7e5e1454e2)
-
-
+ 
