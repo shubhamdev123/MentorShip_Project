@@ -4,21 +4,24 @@ A web-based dashboard for mentors to evaluate college students. Features include
 
 ## Screenshots
 
-* MentorSelectPage: A page to select a mentor.
+
+![Evaluated Page]
+(https://github.com/shubhamdev123/MentorShip_Project/assets/96860714/ad8cc7ad-b135-4ec6-a226-854996077d0b)
+
+![Atleast one student functionality]
+(https://github.com/shubhamdev123/MentorShip_Project/assets/96860714/b1f32f81-ef93-44d8-8b38-9103c65905cd)
 
 
-* StudentSelectPage: A page for mentor to select students for evaluation.
+![Node Mailer Functionality Working ScreenShot]
+(https://github.com/shubhamdev123/MentorShip_Project/assets/96860714/6c62658f-8d5c-49d1-ba63-c0f03e33b7c5)
 
 
-* StudentViewPage: A page for mentor to view the students' evaluation results.
+
+![Select Mentor Page]
+(https://github.com/shubhamdev123/MentorShip_Project/assets/96860714/dd05b606-2aef-4716-abdd-1661a2fc819a)
 
 
-* StudentEvaluationPage: A page for mentors to evaluate a selected student.
+![Select Students]
+(https://github.com/shubhamdev123/MentorShip_Project/assets/96860714/212313ef-2bf3-4f85-a2a5-8c7e5e1454e2)
 
 
-* Added Email Feature: Upon completion of evaluation by the mentor, a PDF marksheet is automatically generated and sent to the respective student via email.
-
-
-## Prerequisites
-
-To enable mail sending functionality, make sure to create a .env file with the required credentials for the EMAIL and APP_PASS (GMAIL) fields and place it in the backend folder.
